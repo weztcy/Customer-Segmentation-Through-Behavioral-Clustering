@@ -1,0 +1,6 @@
+Cluster_ID,Segment_Name,Count,Percentage,Age_Mean,Age_Median,Age_Min_Max,Income_Mean,Income_Median,Income_Min_Max,Spending_Mean,Spending_Median,Spending_Min_Max,Female_Pct,Male_Pct
+0,Balanced Middle-Income,81,40.5%,42.7,46.0,18-70,55.3,54.0,39-76,49.5,50.0,34-61,59.3%,40.7%
+1,Affluent VIP Spenders,39,19.5%,32.7,32.0,27-40,86.5,79.0,69-137,82.1,83.0,63-97,53.8%,46.2%
+2,Frugal High-Earners,35,17.5%,41.1,42.0,19-59,88.2,85.0,70-137,17.1,16.0,1-39,45.7%,54.3%
+3,Youthful Impulsive Spenders,22,11.0%,25.3,23.5,18-35,25.7,24.5,15-39,79.4,77.0,61-99,59.1%,40.9%
+4,Prudent Budget Shoppers,23,11.5%,45.2,46.0,19-67,26.3,25.0,15-39,20.9,17.0,3-40,60.9%,39.1%
